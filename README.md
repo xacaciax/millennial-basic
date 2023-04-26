@@ -1,6 +1,4 @@
 # millennial-basic
-Engineering and software development resources
-
 As I learn and grow as an engineer, this is where I keep documents, articles, and sharable resources. 
 
 # Articles 
