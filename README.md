@@ -6,5 +6,5 @@ As I learn and grow as an engineer, this is where I keep documents, articles, an
 - [4 Tips for Your First Year as a Software Engineer](https://millennialbasic.com/4-tips-for-your-first-year-as-a-software-engineer/)
 - [How "do what scares you" became my go-to mantra](https://millennialbasic.com/do-what-scares-you/)
 
-# DEVEX
+# DevEx
 - [Pull Request Template for Flutter Apps](https://github.com/xacaciax/millennial-basic/blob/main/PULL_REQUEST_TEMPLATE_FLUTTER.md)
