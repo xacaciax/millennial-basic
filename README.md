@@ -17,3 +17,4 @@ As I learn and grow as an engineer, this is where I keep documents, articles, an
 
 ## Best for Flutter
 - [Flutter Style Guide](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#philosophy)
+- [Effective Dart](https://dart.dev/effective-dart)
