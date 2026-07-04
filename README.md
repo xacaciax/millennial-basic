@@ -1,7 +1,7 @@
 # millennial-basic
 As I learn and grow as an engineer, this is where I keep documents, articles, and sharable resources. 
 
-## Articles
+## Long Form: Essays, articles and experiments
 - Go to [{acacia}](https://xacaciax.github.io/)
 
 ## Object Oriented Design
